@@ -1,15 +1,14 @@
 from langchain.agents import create_agent
 from langchain_ollama import ChatOllama
 
-
-def get_weather(city: str) -> str:
-    """Which weather in sity"""
-    return f"in {city} weather is good"
-
 model = ChatOllama(
     model = "qwen2.5:7b",
     temperature=0.5
 )
+
+def get_weather(city: str) -> str:
+    """Which weather in sity"""
+    return f"in {city} weather is good"
 
 agent = create_agent(
     model = model,
