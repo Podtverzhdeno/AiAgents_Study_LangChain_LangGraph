@@ -1,8 +1,8 @@
-Бесплатный github курс по освоению LangChain, LangGraph
+**Бесплатный** github курс по освоению LangChain, LangGraph
 
 В папке course лежат все необходимые уроки в правильном порядке. В каждом Lesson имеется соответствующий lesson{}.md 
 
-LangChain**
+**LangChain**
 
 Урок 1 — Runnable Protocol
 
