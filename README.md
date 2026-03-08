@@ -1,0 +1,14 @@
+Бесплатный github курс по освоению LangChain, LangGraph
+
+**LangChain**
+
+Урок 1 — Runnable Protocol
+Урок 2 — Messages + PromptTemplates
+Урок 3 — Chat Models: параметры, structured output, провайдеры
+Урок 4 — Output Parsers + обработка ошибок
+Урок 5 — Tools: создание, docstring, цикл выполнения
+Урок 6 — Память: short-term, trim, RunnableWithMessageHistory
+Урок 7 — RAG: загрузчики, сплиттеры, векторные хранилища, ретриверы
+Урок 8 — Агенты: ReAct, create_react_agent, полный цикл
+Урок 9 — Middleware: retry, fallback, PII, summarization
+Урок 10 — Финальный проект: собираем всё вместе
