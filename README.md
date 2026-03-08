@@ -12,22 +12,22 @@ P.S. Постараюсь также добавлять интересные с�
 
 **LangChain**
 
-Урок 1 — Runnable Protocol
+Урок 1 - Runnable Protocol
 
-Урок 2 — Messages + PromptTemplates
+Урок 2 - Messages + PromptTemplates
 
-Урок 3 — Chat Models: параметры, structured output, провайдеры
+Урок 3 - Chat Models: параметры, structured output, провайдеры
 
-Урок 4 — Output Parsers + обработка ошибок
+Урок 4 - Output Parsers + обработка ошибок
 
-Урок 5 — Tools: создание, docstring, цикл выполнения
+Урок 5 - Tools: создание, docstring, цикл выполнения
 
-Урок 6 — Память: short-term, trim, RunnableWithMessageHistory
+Урок 6 - Память: short-term, trim, RunnableWithMessageHistory
 
-Урок 7 — RAG: загрузчики, сплиттеры, векторные хранилища, ретриверы
+Урок 7 - RAG: загрузчики, сплиттеры, векторные хранилища, ретриверы
 
-Урок 8 — Агенты: ReAct, create_react_agent, полный цикл
+Урок 8 - Агенты: ReAct, create_react_agent, полный цикл
 
-Урок 9 — Middleware: retry, fallback, PII, summarization
+Урок 9 - Middleware: retry, fallback, PII, summarization
 
-Урок 10 — Финальный проект: собираем всё вместе
+Урок 10 - Финальный проект: собираем всё вместе
